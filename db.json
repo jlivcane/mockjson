@@ -27,30 +27,6 @@
 			"ratingSource": "USA_PR"
 		}
 	}, {
-		"id": "42137542fa884b97a2a72cb356ae21b9",
-		"title": "Giant Sharks And More",
-		"shortDescription": "The best collection of high-quality documentary programs anywhere. History, science, space, nature, adventure - XiveTV has it all. From sharks and war, to UFOs and black holes, and much more!",
-		"thumbnail": "https://blog.roku.com/developer/files/2016/10/xive-poster-artwork.png",
-		"genres": ["history", "science", "nature", "adventure"],
-		"tags": ["History", "science", "nature", "adventure", "Space"],
-		"releaseDate": "2015-07-02",
-		"content": {
-			"dateAdded": "2015-07-02T14:14:54.431Z",
-			"captions": [],
-			"duration": 67,
-			"adBreaks": ["00:00:00", "00:01:07"],
-			"videos": [{
-				"url": "http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/Ks/IPueo9XOsmphulkqjld8bgmVZLMto1Mob5NkTioiw/roku_119_segment_2_062315.mp4",
-				"quality": "HD",
-				"videoType": "MP4"
-			}]
-		},
-		"language": "en-us",
-		"rating": {
-			"rating": "G",
-			"ratingSource": "USA_PR"
-		}
-	}, {
 		"id": "69ce40b268fa4766aa1612131aa74898",
 		"title": "Cult Scary Movies",
 		"shortDescription": "The Cult Movie network has it all, 24 hours a day, seven days a week. Watch the cult films you can't find anywhere else on television - if you're into that sort of thing.",

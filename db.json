@@ -51,30 +51,6 @@
 			"ratingSource": "USA_PR"
 		}
 	}, {
-		"id": "7405a8c101ee4c9da312c426e6067044",
-		"title": "Ideas Worth Spreading",
-		"shortDescription": "TED is a nonprofit devoted to Ideas Worth Spreading. On this channel, youâ€™ll find TEDTalks video to inspire, intrigue and stir the imagination from some of the worldâ€™s leading thinkers and doers, speaking from the stage at TED conferences, TEDx events and partner events around the world.",
-		"thumbnail": "https://blog.roku.com/developer/files/2016/10/ted-poster-artwork.png",
-		"genres": ["educational", "science"],
-		"tags": ["educational", "science", "innovation"],
-		"releaseDate": "2015-05-21",
-		"content": {
-			"dateAdded": "2015-05-21T14:14:54.431Z",
-			"captions": [],
-			"duration": 71,
-			"adBreaks": ["00:00:00", "00:01:11"],
-			"videos": [{
-				"url": "http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/p-/IBQ_ar_jBKNjk2ZGYCNHHNcN7v6Qy2Gf4V517CuX0/roku_ep_115_segment_1_ted_nw_050515.mp4",
-				"quality": "HD",
-				"videoType": "MP4"
-			}]
-		},
-		"language": "en-us",
-		"rating": {
-			"rating": "G",
-			"ratingSource": "USA_PR"
-		}
-	}, {
 		"id": "5686748268874a57a4ba3debda1619dd",
 		"title": "Fanboys Unite",
 		"shortDescription": "ConTv is a channel that promises to let you \"immerse yourself in the Comic Con experience.\" The channel offers Sci-fi and monster movies, cult classics, martial arts, hit television series from years past, and more.",
@@ -89,30 +65,6 @@
 			"adBreaks": ["00:00:00", "00:01:03"],
 			"videos": [{
 				"url": "http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/QQ/6q06mla758cIcH6GFeTCKS-iTyFVH5PCCDYbScMzM/ep-126-seg-3_contv_v1-mo.mp4",
-				"quality": "HD",
-				"videoType": "MP4"
-			}]
-		},
-		"language": "en-us",
-		"rating": {
-			"rating": "G",
-			"ratingSource": "USA_PR"
-		}
-	}, {
-		"id": "37d290e03d894135b07c5e514cbad72d",
-		"title": "Fight Pass",
-		"shortDescription": "UFCTV gives you Live and On-Demand access to UFC events and classic fights. UFC (Ultimate Fighting Championship), is the worldâ€™s leading mixed martial arts sports association.",
-		"thumbnail": "https://blog.roku.com/developer/files/2016/10/ufc-poster-artwork.png",
-		"genres": ["sports"],
-		"tags": ["MMA", "sports", "Fighting"],
-		"releaseDate": "2015-05-28",
-		"content": {
-			"dateAdded": "2015-05-28T14:14:54.431Z",
-			"captions": [],
-			"duration": 52,
-			"adBreaks": ["00:00:00", "00:00:52"],
-			"videos": [{
-				"url": "http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/XI/rKvS5XPfw2LqmtwT9ui46x-tPztbus7TVs-TPWpto/roku_ep_115_segment_3_ufc_nw_051815.mp4",
 				"quality": "HD",
 				"videoType": "MP4"
 			}]
@@ -185,30 +137,6 @@
 			"adBreaks": ["00:00:00", "00:00:52"],
 			"videos": [{
 				"url": "http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/-q/2sQpF_wSsO8JsXyS4K25pVQY48OrAP6d55P11SxWI/ep-123-seq-4-nick-alt_081215.mp4",
-				"quality": "HD",
-				"videoType": "MP4"
-			}]
-		},
-		"language": "en-us",
-		"rating": {
-			"rating": "G",
-			"ratingSource": "USA_PR"
-		}
-	}, {
-		"id": "a4d29aebf55e499c968ce02469859637",
-		"title": "College Sports",
-		"shortDescription": "The Campus Insiders Roku channel provides college sports fans with videos covering college basketball and college football.",
-		"thumbnail": "https://blog.roku.com/developer/files/2016/10/campus-insider-poster-artwork.png",
-		"genres": ["sports"],
-		"tags": ["sports", "football", "college", "basketball"],
-		"releaseDate": "2015-04-30",
-		"content": {
-			"dateAdded": "2015-04-30T14:14:54.431Z",
-			"captions": [],
-			"duration": 64,
-			"adBreaks": ["00:00:00", "00:01:04"],
-			"videos": [{
-				"url": "http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/5R/Xi8Cs-kW1K2deESb5dh8dGS-qBMJ0cDnJ-olhVIzw/roku_ep_113_segment_3_college_insiders_042415.mp4",
 				"quality": "HD",
 				"videoType": "MP4"
 			}]
